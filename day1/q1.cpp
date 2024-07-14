@@ -11,7 +11,6 @@
 #define endl '\n'
 #define ull unsigned long long
 #define ui unsigned int
-#define fast ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 using namespace std;
 const int N=10000;
  
@@ -19,17 +18,17 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
         int slow = nums[0];
-        int fast = nums[nums[0]];
+        int fastp = nums[nums[0]];
         
-        while (slow != fast) {
+        while (slow != fastp) {
             slow = nums[slow];
-            fast = nums[nums[fast]];
+            fastp = nums[nums[fastp]];
         }
         
         slow = 0;
-        while (slow != fast) {
+        while (slow != fastp) {
             slow = nums[slow];
-            fast = nums[fast];
+            fastp = nums[fastp];
         }
         return slow;
     }

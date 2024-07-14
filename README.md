@@ -1,1 +1,3 @@
-day1:287. Find the Duplicate Number
+## Day1:
+    287. Find the Duplicate Number, 75. Sort Colors, 26. Remove Duplicates from Sorted Array, 121. Best Time to Buy and Sell Stock
+

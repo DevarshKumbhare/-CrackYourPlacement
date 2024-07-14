@@ -13,7 +13,3 @@
     18. 4Sum
     1423. Maximum Points You Can Obtain from Cards
     560. Subarray Sum Equals K
-
-    
-
-

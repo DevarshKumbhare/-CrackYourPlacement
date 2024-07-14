@@ -3,3 +3,10 @@
     75. Sort Colors
     26. Remove Duplicates from Sorted Array
     121. Best Time to Buy and Sell Stock
+    Chocolate Distribution Problem (GFG)
+    1. Two Sum
+    122. Best Time to Buy and Sell Stock II
+    974. Subarray Sums Divisible by K
+    442. Find All Duplicates in an Array
+
+    

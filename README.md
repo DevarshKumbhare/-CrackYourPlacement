@@ -13,3 +13,21 @@
     18. 4Sum
     1423. Maximum Points You Can Obtain from Cards
     560. Subarray Sum Equals K
+
+## Day2:
+    Spiral Matrix
+    Word Search
+    Merge Sorted Array
+    Jump Game
+    Majority Element
+    Reverse Pairs
+    Game of Life
+    Max Value of Equation
+    Insert Delete GetRandom O(1) - Duplicates allowed
+    Largest Rectangle in Histogram
+    Valid Parentheses
+    Find the Index of the First Occurrence in a String
+    Integer to Roman
+    Simplify Path
+
+
